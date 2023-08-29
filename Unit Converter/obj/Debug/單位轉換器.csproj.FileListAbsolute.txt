@@ -1,0 +1,11 @@
+C:\QNote\單位轉換器\bin\Debug\單位轉換器.exe.config
+C:\QNote\單位轉換器\bin\Debug\單位轉換器.exe
+C:\QNote\單位轉換器\bin\Debug\單位轉換器.pdb
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.csproj.AssemblyReference.cache
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.csproj.SuggestedBindingRedirects.cache
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.Form1.resources
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.Properties.Resources.resources
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.csproj.GenerateResource.cache
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.csproj.CoreCompileInputs.cache
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.exe
+C:\QNote\單位轉換器\obj\Debug\單位轉換器.pdb
